@@ -7,7 +7,7 @@
         <version>5.1</version>
     </parent>
     <artifactId>domain-specification</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <description>domain design specification</description>
 
 </project>
